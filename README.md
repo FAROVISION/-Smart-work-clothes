@@ -1,4 +1,22 @@
-# 👕🛡️ لباس کار هوشمند – آینده‌ی ایمنی و بهره‌وری در محیط‌های کاری  
+# 👕🛡️ لباس کار هوشمند – آینده‌ی ایمنی و بهره‌وری در محیط‌های کاری
+ یک تجهیز پوشیدنی پیشرفته که **با هر قدم شما انرژی تولید می‌کند**
+ ### ⚙️ قابلیت‌ها
+- ⚡ **تولید انرژی با گام برداشتن (Kinetic Energy Harvesting)**  
+- 👟 **پایش فعالیت و موقعیت لحظه‌ای (Step tracking & GPS)**  
+- 🔴 **کلید اضطراری و هشدار SOS**  
+- 💡 **چراغ هوشمند برای محیط‌های کم‌نور و شب**  
+- 🟢 **باتری داخلی با ذخیره انرژی تولیدشده**  
+- 🟡 **مقاوم و قابل استفاده در تمام محیط‌های کاری صنعتی و عمرانی**  
+- 🟠 **اتصال به سیستم HSE و مرکز کنترل**  
+
+### 🧩 طراحی ماژولار
+- ✅ قابلیت استفاده در انواع کفش‌های کار استاندارد  
+- ✅ مقاوم در برابر ضربه و شرایط محیطی سخت  
+- ✅ ماژول انرژی قابل تعویض و نگهداری آسان  
+- ✅ مقرون‌به‌صرفه و قابل استفاده در پروژه‌ها و صنایع مختلف  
+
+این کفش پلی میان **ایمنی، انرژی سبز و کارآمدی محیط کاری** است. 
+ 
 <p align="center">
   <img src="smart jacket_Structure.png" alt="Smart Jacket" width="800"/>
 </p>
@@ -117,6 +135,23 @@ The **Faravision team** solved this with a **modular wearable gadget** that is d
 
 This solution bridges the gap between **technology, safety, and economic efficiency** in workplaces.  
 
+**Smart Work Shoe**
+
+### ⚙️ Features
+- ⚡ **Kinetic Energy Harvesting (step-powered energy generation)**  
+- 👟 **Activity & real-time position tracking (steps & GPS)**  
+- 🔴 **Emergency SOS button & alerts**  
+- 💡 **Smart lamp for low-light/night work**  
+- 🟢 **Internal battery storing harvested energy**  
+- 🟡 **Durable & suitable for all industrial/construction environments**  
+- 🟠 **Integration with HSE & control systems**  
+
+### 🧩 Modular Design
+- ✅ Compatible with all standard work shoes  
+- ✅ Impact-resistant and rugged  
+- ✅ Replaceable energy module for easy maintenance  
+- ✅ Cost-effective & flexible for diverse projects and industries  
+
 ---
 
 ## 👨‍💻 توسعه‌دهندگان / Developers
@@ -124,7 +159,7 @@ This solution bridges the gap between **technology, safety, and economic efficie
 - مهدی ابوطالبی – *Mahdi Aboutalebi*  
 
 ---
-
+This shoe bridges **safety, green energy, and workplace efficiency**
 ## 🎯 Vision
 Building a future where **safety meets intelligence**, empowering both workers and managers with **real-time insights and proactive protection**.  
 
