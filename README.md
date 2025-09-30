@@ -159,7 +159,7 @@ This solution bridges the gap between **technology, safety, and economic efficie
 - ✅ Replaceable energy module for easy maintenance  
 - ✅ Cost-effective & flexible for diverse projects and industries
 
-#⛑️🎥 Smart Work Helmet – The Ever-Watchful Eye in Work Environments
+# ⛑️🎥 Smart Work Helmet – The Ever-Watchful Eye in Work Environments
 The **Smart Work Helmet** project has developed an advanced wearable device designed to **enhance safety, precision monitoring, and productivity** in workplace environments.
 
 This helmet integrates an **event recording camera**, **live image and video transmission**, and a **smart night light**, enabling supervisors and safety managers to stay informed about real-time conditions of the site and personnel.
