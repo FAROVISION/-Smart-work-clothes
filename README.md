@@ -87,8 +87,6 @@
 - ✅ ماژول انرژی قابل تعویض و نگهداری آسان  
 - ✅ مقرون‌به‌صرفه و قابل استفاده در پروژه‌ها و صنایع مختلف  
 
-این کفش پلی میان **ایمنی، انرژی سبز و کارآمدی محیط کاری** است.
-
 <p align="left">
   <img src="Smart work shoes.png" alt="Smart Jacket" width="350"/>
 </p>
@@ -177,6 +175,24 @@ This helmet integrates an **event recording camera**, **live image and video tra
 - ✅ Impact-resistant and built for harsh environments
 - ✅ Easy integration with HSE systems and project control
 - ✅ Cost-effective and flexible
+
+# 👟⚡ Smart Work Shoes – Safe Steps, Smart Energy  
+An advanced wearable device that **generates energy with every step you take**
+
+### ⚙️ قابلیت‌ها  
+- ⚡ **Kinetic Energy Harvesting**  
+- 👟 **Step Tracking & Real-Time GPS Positioning**  
+- 🔴 **Emergency Button and SOS Alert**  
+- 💡 **Smart Light for Low-Light and Night Environments**  
+- 🟢 **Built-in Battery for Storing Generated Energy**  
+- 🟡 **Durable and Suitable for All Industrial and Construction Work Environments**  
+- 🟠 **Connectivity with HSE Systems and Control Center**
+
+### 🧩 طراحی ماژولار  
+- ✅ Compatible with All Standard Work Shoes  
+- ✅ Impact-Resistant and Built for Harsh Conditions  
+- ✅ Replaceable Energy Module with Easy Maintenance  
+- ✅ Cost-Effective and Usable Across Various Projects and Industries
 
 ---
 
