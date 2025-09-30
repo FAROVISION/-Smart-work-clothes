@@ -90,15 +90,9 @@
 <p align="left">
   <img src="Smart work shoes.png" alt="Smart Jacket" width="350"/>
 </p>
-
-
-   
-
 <p align="center">
   <img src="smart work clothes.png" alt="Smart Jacket" width="800"/>
 </p>
-
-
 ---
 
 ## 🇬🇧 Introduction (English)
