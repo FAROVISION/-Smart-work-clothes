@@ -38,7 +38,7 @@
 تیم **فراویژن** با نگاهی خلاقانه این مسئله را حل کرده است:  
 ما یک **گجت هوشمند ماژولار** طراحی کرده‌ایم که به‌راحتی روی هر نوع لباس کاری نصب می‌شود، جداشدنی، مقاوم و کاملاً انعطاف‌پذیر است.  
 
-این فناوری پلی است میان **ایمنی، نوآوری و صرفه‌جویی اقتصادی** در محیط‌های کاری. 
+این فناوری پلی است میان **ایمنی، نوآوری و صرفه‌جویی اقتصادی** در محیط‌های کاری
 
 # ⛑️🎥 کلاه هوشمند کار – چشم همیشه بیدار در محیط‌های کاری 
 
@@ -125,9 +125,6 @@ Feel free to fork, contribute, and enhance via Pull Requests.
 
 ---
 
-## 🇬🇧 Introduction (English)
-
-**Faravision Engineering Group**  
 introduces the **Smart Work Helmet** — an advanced wearable designed to enhance **safety, supervision, and productivity** in industrial and construction environments.  
 
 Equipped with an **event recording camera**, **real-time video streaming**, and a **smart night lamp**, it empowers supervisors and HSE managers to maintain live awareness of site conditions and worker safety.  
