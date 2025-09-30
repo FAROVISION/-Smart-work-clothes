@@ -90,7 +90,7 @@
 این کفش پلی میان **ایمنی، انرژی سبز و کارآمدی محیط کاری** است.
 
 <p align="center">
-  <img src="Smart work shoes.png" alt="Smart Jacket" width="800"/>
+  <img src="Smart work shoes.png" alt="Smart Jacket" width="500"/>
 </p>
 
 
