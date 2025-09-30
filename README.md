@@ -96,7 +96,59 @@ Building a future where **safety meets intelligence**, empowering both workers a
 ## 📌 License & Contribution
 This project is open for collaboration 🤝  
 Feel free to fork, contribute, and enhance via Pull Requests.  
+# ⛑️🎥 کلاه هوشمند کار – چشم همیشه بیدار در محیط‌های کاری  
 
+---
+
+## 🇮🇷 معرفی (فارسی)
+
+**گروه فنی مهندسی فراویژن**  
+پروژه‌ی **کلاه هوشمند کار** را توسعه داده است؛ یک تجهیز پوشیدنی پیشرفته که برای **ایمنی بیشتر، نظارت دقیق‌تر و افزایش بهره‌وری** در محیط‌های کاری طراحی شده است.  
+
+این کلاه با ترکیب **دوربین ثبت وقایع**، **ارسال آنلاین تصویر و ویدیو** و **چراغ هوشمند شبانه**، به سرپرستان و مدیران ایمنی امکان می‌دهد تا از وضعیت لحظه‌ای کارگاه و کارکنان خود آگاه باشند.  
+
+### ⚙️ قابلیت‌ها
+- 🎥 **دوربین ثبت وقایع** (Event Recording Camera)  
+- 📡 **ارسال زنده تصویر و ویدیو** به مرکز کنترل  
+- 💡 **چراغ هوشمند برای کار در شب و محیط‌های کم‌نور**  
+- 🟢 **موقعیت‌یابی لحظه‌ای (GPS/RTLS)**  
+- 🔴 **کلید اضطراری (SOS Button)**  
+- 🟠 **ارتباط دوطرفه صوتی/تصویری با مرکز کنترل**  
+- 🟡 **حافظه داخلی برای ذخیره‌سازی حوادث**  
+- 🟢 **باتری هوشمند با مدیریت مصرف انرژی**  
+
+### 🧩 طراحی ماژولار
+- ✅ قابل استفاده روی انواع کلاه ایمنی استاندارد  
+- ✅ مقاوم در برابر ضربه و شرایط سخت محیطی  
+- ✅ اتصال آسان به سیستم HSE و کنترل پروژه  
+- ✅ مقرون‌به‌صرفه و انعطاف‌پذیر  
+
+این کلاه، پلی میان **ایمنی فردی، نظارت هوشمند و مدیریت کارگاهی** است.  
+
+---
+
+## 🇬🇧 Introduction (English)
+
+**Faravision Engineering Group**  
+introduces the **Smart Work Helmet** — an advanced wearable designed to enhance **safety, supervision, and productivity** in industrial and construction environments.  
+
+Equipped with an **event recording camera**, **real-time video streaming**, and a **smart night lamp**, it empowers supervisors and HSE managers to maintain live awareness of site conditions and worker safety.  
+
+### ⚙️ Features
+- 🎥 **Event Recording Camera**  
+- 📡 **Live video & image streaming** to the control center  
+- 💡 **Smart lamp for night work & low-light conditions**  
+- 🟢 **Real-time positioning (GPS/RTLS)**  
+- 🔴 **Emergency SOS button**  
+- 🟠 **Two-way audio/video communication with control**  
+- 🟡 **Local storage for incidents**  
+- 🟢 **Smart battery with power optimization**  
+
+### 🧩 Modular Design
+- ✅ Compatible with all standard safety helmets  
+- ✅ Rugged & impact-resistant for harsh environments  
+- ✅ Easy integration with HSE & project control systems  
+- ✅ Cost-effective and flexible 
 📜 Licensed under **MIT License**.  
 
 ---
