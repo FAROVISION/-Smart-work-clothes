@@ -1,4 +1,8 @@
 # 👕🛡️ لباس کار هوشمند – آینده‌ی ایمنی و بهره‌وری در محیط‌های کاری  
+<p align="center">
+  <img src="smart_jacket.png" alt="Smart Jacket" width="500"/>
+</p>
+
 
 ## 🇮🇷 معرفی (فارسی)
 
