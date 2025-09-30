@@ -179,7 +179,7 @@ This helmet integrates an **event recording camera**, **live image and video tra
 # 👟⚡ Smart Work Shoes – Safe Steps, Smart Energy  
 An advanced wearable device that **generates energy with every step you take**
 
-### ⚙️ قابلیت‌ها  
+### ⚙️ ‌Features  
 - ⚡ **Kinetic Energy Harvesting**  
 - 👟 **Step Tracking & Real-Time GPS Positioning**  
 - 🔴 **Emergency Button and SOS Alert**  
@@ -188,7 +188,7 @@ An advanced wearable device that **generates energy with every step you take**
 - 🟡 **Durable and Suitable for All Industrial and Construction Work Environments**  
 - 🟠 **Connectivity with HSE Systems and Control Center**
 
-### 🧩 طراحی ماژولار  
+### 🧩 Modular Design
 - ✅ Compatible with All Standard Work Shoes  
 - ✅ Impact-Resistant and Built for Harsh Conditions  
 - ✅ Replaceable Energy Module with Easy Maintenance  
