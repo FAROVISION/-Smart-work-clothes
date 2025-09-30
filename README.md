@@ -95,7 +95,7 @@
    
 
 <p align="center">
-  <img src="A professional 4K 1.png" alt="Smart Jacket" width="800"/>
+  <img src="smart work clothes.png" alt="Smart Jacket" width="800"/>
 </p>
 
 
