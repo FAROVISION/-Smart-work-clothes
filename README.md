@@ -157,7 +157,26 @@ This solution bridges the gap between **technology, safety, and economic efficie
 - ✅ Compatible with all standard work shoes  
 - ✅ Impact-resistant and rugged  
 - ✅ Replaceable energy module for easy maintenance  
-- ✅ Cost-effective & flexible for diverse projects and industries  
+- ✅ Cost-effective & flexible for diverse projects and industries
+
+#⛑️🎥 Smart Work Helmet – The Ever-Watchful Eye in Work Environments
+The **Smart Work Helmet** project has developed an advanced wearable device designed to **enhance safety, precision monitoring, and productivity** in workplace environments.
+
+This helmet integrates an **event recording camera**, **live image and video transmission**, and a **smart night light**, enabling supervisors and safety managers to stay informed about real-time conditions of the site and personnel.
+
+### ⚙️ Features
+- 🎥 **Event Recording Camera**
+- 📡 **Live Image and Video Transmission to the control center**
+- 💡 **Smart Light for Night Work and Low-Light Environments**
+- 🟠 **Two-Way Visual Communication with the Control Center**
+- 🟡 **Internal Memory for Incident Storage**
+- 🟢 **Smart Battery with Energy Management System**
+
+### 🧩 Modular Design
+- ✅ Compatible with all standard safety helmets
+- ✅ Impact-resistant and built for harsh environments
+- ✅ Easy integration with HSE systems and project control
+- ✅ Cost-effective and flexible
 
 ---
 
